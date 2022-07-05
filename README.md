@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sn1ggle
 - 👀 I’m interested in Football
 - 🌱 I’m currently learning Java / Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sirsniggle@gmail.com
 
 <!---
